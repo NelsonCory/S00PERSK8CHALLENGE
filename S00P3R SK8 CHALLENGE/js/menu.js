@@ -49,7 +49,6 @@ var menuState = {
 		titleSong.mute = true;
 		game.state.start("firstLevel");
 	},
-	/*
 	goToLevelTwo: function(){
 		game.state.start("secondLevel");	
 	},
@@ -57,6 +56,5 @@ var menuState = {
 	goToLevelThree:function(){
 		game.state.start("thirdLevel");
 	},
-	*/
 
 };
